@@ -1,0 +1,44 @@
+{
+    "pingeador" : {
+        "ip 1" : {
+            "ip" : "google.com",
+            "name" : "Google"
+        },
+        "ip 2" : {
+            "ip" : "192.168.2.1",
+            "name" : "Ordenador pequeño 1"
+        },
+        "ip 3" : {
+            "ip" : "192.168.3.3",
+            "name" : "Ordenador pequeño 2"
+        },
+        "ip 4" : {
+            "ip" : "192.168.3.4",
+            "name" : "Ordenador pequeño 3"  
+        },
+        "ip 5" : {
+            "ip" : "192.168.3.5",
+            "name" : "Ordenador pequeño 4"
+        },
+        "ip 6" : {
+            "ip" : "google.es",
+            "name" : "Google 2"
+        },
+        "ip 7" : {
+            "ip" : "192.168.3.6",
+            "name" : "Ordenador pequeño 5"
+        },
+        "ip 8" : {
+            "ip" : "192.168.3.7",
+            "name" : "Ordenador pequeño 6" 
+        },
+        "ip 9" : {
+            "ip" : "192.168.3.8",
+            "name" : "Ordenador pequeño 7"
+        },
+        "ip 10" : {
+            "ip" : "192.168.3.9",
+            "name" : "Ordenador pequeño 8"
+        }
+    }
+}
