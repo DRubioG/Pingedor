@@ -5,7 +5,7 @@ import encodings.idna
 
 def myping(host, name):
     try:
-        resp = ping(host, timeout=0.1)
+        resp = ping(host, timeout=2)
         '''if resp == None:
             print(name, "(", host, ") ->  Not connected")
             return False
